@@ -1,5 +1,5 @@
 # STAGED
-This is a repository for Stone Age radiocarbon dates from southern Norway (STAGED). Please reference this database as: Nielsen, Svein Vatsvåg 2020: https://github.com/sveinvn/STAGED.git.
+This is a repository for Stone Age radiocarbon dates from southern Norway (STAGED). Please reference this database as: Nielsen, Svein Vatsvåg 2020: STAGED1702020 (or the correct version), https://github.com/sveinvn/STAGED.git.
 
 All dates have been collected and organized by Svein Vatsvåg Nielsen. The dataset includes dates used in the published research paper Nielsen, S. V., Solheim, S. and P. Persson, De-Neolithisation in southern Norway inferred from statistical modelling of radiocarbon dates, Journal of Anthropological Archaeology 53, pp. 82-91.
 
