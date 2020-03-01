@@ -8,3 +8,5 @@ Museum numbers refer to the site-specific label under which the archaeological m
 The dataset present dates from southern Norway older than 2999 BP. Several sites have radiocarbon dates from different carbon sources. In every case, these fields have been marked with 'unknown'. When dates were produced from samples with different wood species represented, these fields were marked with 'charcoal'. Site names are always based on original publications. A column of random ID has been added to aid research, such as statistical analyses.
 
 Any questions can be sent to svein.v.nielsen@gmail.com.
+
+This is a line from RStudio
